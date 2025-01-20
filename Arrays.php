@@ -126,15 +126,6 @@
         echo "La nota mas alta es " . $Mayor . " y el mejor alumno es ". $Nombre . "<br>";
     ?>
 
-    <h1>Ejercicio 9</h1>
-
-    <?php
-
-    
-
-    ?>
-
-
 </body>
 
 </html>
